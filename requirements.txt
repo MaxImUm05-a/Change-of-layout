@@ -1,0 +1,4 @@
+kivymd>=1.2.0
+keyboard>=0.13.5
+pyperclip>=1.9.0
+PyAutoGUI>=0.9.54
