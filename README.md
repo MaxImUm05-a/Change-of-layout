@@ -35,7 +35,6 @@ This simple Python tool helps **convert mistyped text** between English (QWERTY)
 
 ## 📂 How to Run
 
-> Don't forget to add your TOKEN in main.py
 ```bash
 git clone https://github.com/MaxImUm05-a/Change-of-layout.git
 cd Change-of-layout
