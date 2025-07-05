@@ -41,3 +41,10 @@ cd Change-of-layout
 pip install -r requirements.txt
 python gui.py
 ```
+
+---
+
+## 🔜 Coming Soon
+
+ - .exe file
+ - different layouts
