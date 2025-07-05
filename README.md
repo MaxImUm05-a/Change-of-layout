@@ -28,7 +28,7 @@ This simple Python tool helps **convert mistyped text** between English (QWERTY)
 - Python 3.10  
 - keyboard
 - pyperclip
-- pyautogui
+- PyAutoGui
 - kivymd
 
 ---
